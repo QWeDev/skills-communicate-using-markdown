@@ -5,3 +5,8 @@
 
 Example of adding an image:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Example of a code block:
+``` javascript
+var myVar = "Hello, world!";
+```
