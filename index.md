@@ -2,3 +2,6 @@
 ## This is a H2 header.
 ...
 ###### This is a H6 header.
+
+Example of adding an image:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
