@@ -10,3 +10,7 @@ Example of a code block:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Example of a Task List:
+- [x] Completed item.
+- [ ] Incomplete item.
